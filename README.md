@@ -1,16 +1,12 @@
-## Hi there 👋
+# Hello, I'm Kalyan Cherukuri 
+I am a high school sophomore at the Illinois Math and Science Academy. This page serves as a place to hold some meaningful and some passion projects of mine. Here I've posted different projects and competitions I've worked on in the past.
 
-<!--
-**KalChe/KalChe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Projects:
+- ASLType (Hackathon Winner)
+- Flower Image Detection
+- VEX Robotics Skills
+- Intermediate Chess AI
+- Car Cost Prediction
+- LaTeX Problem Creation
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Contact Me!](kalyan.cherukuri5@gmail.com)
