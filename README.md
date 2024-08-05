@@ -9,4 +9,4 @@ I am a high school sophomore at the Illinois Math and Science Academy. This page
 - Car Cost Prediction
 - LaTeX Problem Creation
 
-Contact Me!: <kalyan.cherukuri5@gmail.com>
+Contact Me!: <kalyan.cherukuri5@gmail.com>, <kcherukuri@imsa.edu>
