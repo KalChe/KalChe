@@ -9,4 +9,4 @@ I am a high school sophomore at the Illinois Math and Science Academy. This page
 - Car Cost Predictor
 - Math Problems (using TeX)
 
-Contact Me!: <kalyan.cherukuri5@gmail.com>, <kcherukuri@imsa.edu>
+Contact Me! <kalyan.cherukuri5@gmail.com>, <kcherukuri@imsa.edu>
