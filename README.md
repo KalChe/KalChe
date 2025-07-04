@@ -10,6 +10,7 @@ I'm a student, cited researcher, and builder with a passion for using computatio
 ## 🔬 Interests
 
 - Multi-Agent Systems, Reinforcement Learning
+- Deep Learning and Neural Networks
 - Theoretical & Applied Machine Learning
 - Computational Neuroscience
 - Optimization and Sample Complexity
