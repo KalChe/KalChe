@@ -3,7 +3,7 @@
 -----
 I'm a student, cited researcher, and builder with a passion for using computation to uncover structure in complex systems—especially in machine learning, optimization, and science. Whether it's through research papers, coding projects, or collaborative initiatives, I'm always excited by hard questions and real-world impact.
 
-🌐 [Learn more about me here → kal-che.vercel.app](https://kalyancherukuri.vercel.app/)
+🌐 [Learn more about me here](https://kalyancherukuri.vercel.app/)
 
 ---
 
