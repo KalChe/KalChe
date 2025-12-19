@@ -1,7 +1,8 @@
 # 👋 Hey, I'm Kalyan Cherukuri
 
 I'm a **student**, **cited researcher**, and **builder** driven by a fascination with how computation reveals structure in complex systems — especially across **machine learning**, **convex optimization**, and **sample complexity bounds**.  
-I love bridging theory and application: designing algorithms, building systems, and tackling hard problems that matter.
+
+My research focuses on understanding and improving the efficiency, robustness, and theoretical limits of learning systems under structural and informational constraints.
 
 🌐 [⍰⍰⍰⍰⍰⍰⍰⍰⍰⍰⍰⍰⍰⍰⍰⍰](https://kalyancherukuri.vercel.app/)
 
