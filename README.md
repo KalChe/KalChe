@@ -1,6 +1,6 @@
 Howdy, I'm Kalyan Cherukuri!
 
-website: [⍰⍰⍰](https://kalyancherukuri.vercel.app/)
+[⍰⍰⍰](https://kalyancherukuri.vercel.app/)
 
 [math and cs research.](https://scholar.google.com/citations?hl=en&amp;user=K7VYVvAAAAAJ)
 
