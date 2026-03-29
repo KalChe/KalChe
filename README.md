@@ -1,9 +1,6 @@
-Howdy, I'm Kalyan Cherukuri!
+Hi, I'm Kalyan.
 
-[⍰⍰⍰](https://kalyancherukuri.vercel.app/)
+[kcherukuri [at] imsa [dot] edu](mailto:kcherukuri@imsa.edu)
 
-[Reach me!](mailto:kcherukuri@imsa.edu)
-
----
 
 > “If there is no struggle, there is no progress.”
